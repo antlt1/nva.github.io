@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.d69d2085.css",
-    "main.js": "/static/js/main.77c68b57.js",
+    "main.css": "/static/css/main.64729354.css",
+    "main.js": "/static/js/main.c9fb92fa.js",
     "static/js/787.6054b5d4.chunk.js": "/static/js/787.6054b5d4.chunk.js",
+    "static/media/meolozvaGa.jpg": "/static/media/meolozvaGa.f77f6ea467141ad722c5.jpg",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.d69d2085.css.map": "/static/css/main.d69d2085.css.map",
-    "main.77c68b57.js.map": "/static/js/main.77c68b57.js.map",
+    "main.64729354.css.map": "/static/css/main.64729354.css.map",
+    "main.c9fb92fa.js.map": "/static/js/main.c9fb92fa.js.map",
     "787.6054b5d4.chunk.js.map": "/static/js/787.6054b5d4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d69d2085.css",
-    "static/js/main.77c68b57.js"
+    "static/css/main.64729354.css",
+    "static/js/main.c9fb92fa.js"
   ]
 }
