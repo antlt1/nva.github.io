@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.6a1fd7cd.css",
-    "main.js": "/static/js/main.f12fd133.js",
+    "main.js": "/static/js/main.522ddf9a.js",
     "static/js/787.a25e55fb.chunk.js": "/static/js/787.a25e55fb.chunk.js",
     "static/media/CVNguyen-Van-An.pdf": "/static/media/CVNguyen-Van-An.c98cff36a258627512b8.pdf",
     "static/media/meolozvaGa.jpg": "/static/media/meolozvaGa.f77f6ea467141ad722c5.jpg",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.6a1fd7cd.css.map": "/static/css/main.6a1fd7cd.css.map",
-    "main.f12fd133.js.map": "/static/js/main.f12fd133.js.map",
+    "main.522ddf9a.js.map": "/static/js/main.522ddf9a.js.map",
     "787.a25e55fb.chunk.js.map": "/static/js/787.a25e55fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a1fd7cd.css",
-    "static/js/main.f12fd133.js"
+    "static/js/main.522ddf9a.js"
   ]
 }
